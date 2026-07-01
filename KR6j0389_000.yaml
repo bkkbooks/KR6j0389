@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0389/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 馬鳴菩薩成就悉地念誦
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0206.xml
+    old_id: X02n0206
+hash: sha256:e59c773ff1a7af732f8085ae56e5be7e9003c20f16d71071d49c3f36a2a705b8

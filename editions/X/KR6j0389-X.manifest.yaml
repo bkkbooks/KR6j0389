@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0389/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0389/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 馬鳴菩薩成就悉地念誦
+  identifiers:
+    krp: KR6j0389
+    cbeta: X02n0206
+    cbeta_old_id: X02n0206
+    authorityid: CA0002156
+    json_key: X0206
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0206.xml
+    old_id: X02n0206
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0389_000-X.yaml, hash: 'sha256:e59c773ff1a7af732f8085ae56e5be7e9003c20f16d71071d49c3f36a2a705b8'}
+  - {seq: 1, filename: KR6j0389_001-X.yaml, hash: 'sha256:fe0564aea3237a198f7ec7f17c7e32386643a36df291b7552f0ea48b9c1ecbe8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0389_000-X.markers.yaml, hash: 'sha256:e7be91915bb3ecb61dd554eece0242dbd1119f4cc07c6db98a444b980e740f84'}
+  - {seq: 1, role: markers, filename: assets/KR6j0389_001-X.markers.yaml, hash: 'sha256:ac02c144c7b1b6f02300cce06eb26257d2189ca24001e1df52905ddd85b61668'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0389_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 761
+  label: '馬鳴菩薩成就悉地念誦一卷
+
+    吉備大臣持來'
+  type: juan
+  level: 1
+hash: sha256:b7084c278487bdc655359fc65c498efcf38996d4117632162959b13b31652dbe
