@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0389_000.yaml, hash: 'sha256:e59c773ff1a7af732f8085ae56e5be7e9003c20f16d71071d49c3f36a2a705b8'}
-  - {seq: 1, filename: KR6j0389_001.yaml, hash: 'sha256:067898dca4e4049c5ba30c941f20230bdad630eccf7d917c66e23903704dd8ff'}
+  - {seq: 1, filename: KR6j0389_001.yaml, hash: 'sha256:fe0564aea3237a198f7ec7f17c7e32386643a36df291b7552f0ea48b9c1ecbe8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0389_001.markers.yaml, hash: 'sha256:eb876bfc4d378f709f303c7c5d3f269493db638d0fce680c5bb82c00dda18274'}
+  - {seq: 0, role: markers, filename: assets/KR6j0389_000.markers.yaml, hash: 'sha256:e1ee60af6cf4e266f29966b4b6fc520b1e3c4eb4f8d8233923efc6f15cb67c2e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0389_001.markers.yaml, hash: 'sha256:b2d83f7be42c1bfbcf5b763b4bade1c38dac56855842ba560e40f188cb206abe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -38,7 +39,4 @@ table_of_contents:
     吉備大臣持來'
   type: juan
   level: 1
-hash: sha256:dd749e1514ca07866fda3bedce134df48a543fba041d80cbe1a163d9a56a4b80
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bee1f40f7ec4f012622e14d3027b06be29da5e2c9efeedc225a811c84a209ba9
