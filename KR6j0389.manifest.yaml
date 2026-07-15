@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0389/v1
 canonical_location: https://kanripo.org/bkk/KR6j0389/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 馬鳴菩薩成就悉地念誦
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0389_000.yaml, hash: 'sha256:e59c773ff1a7af732f8085ae56e5be7e9003c20f16d71071d49c3f36a2a705b8'}
-  - {seq: 1, filename: KR6j0389_001.yaml, hash: 'sha256:fe0564aea3237a198f7ec7f17c7e32386643a36df291b7552f0ea48b9c1ecbe8'}
+  - {seq: 1, filename: KR6j0389_001.yaml, hash: 'sha256:ed89f6f4dcbe8ab8d6111f4c51edc9dafd5bb1e56507a44ce25f070d53579b87'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0389_000.markers.yaml, hash: 'sha256:e1ee60af6cf4e266f29966b4b6fc520b1e3c4eb4f8d8233923efc6f15cb67c2e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0389_001.markers.yaml, hash: 'sha256:b2d83f7be42c1bfbcf5b763b4bade1c38dac56855842ba560e40f188cb206abe'}
+  - {seq: 1, role: markers, filename: assets/KR6j0389_001.markers.yaml, hash: 'sha256:2a14b2c5e3592caca7b97a4a70e7f83e6fc6603b6f0c4e41995b0f3fbad5e426'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     吉備大臣持來'
   type: juan
   level: 1
-hash: sha256:bee1f40f7ec4f012622e14d3027b06be29da5e2c9efeedc225a811c84a209ba9
+hash: sha256:971c12d94adc747a0942375743cc9db3130abd198fb1ded1807fab541c03f915
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
